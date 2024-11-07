@@ -1,2 +1,1 @@
-local loader = 18324760946
-require(loader).loadersetup
+require(18324760946).loadersetup
